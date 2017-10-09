@@ -1,7 +1,9 @@
 # Contributing to Open Graduation Classes
 
 Thank you for your interest in contributing to Open Graduation Classes :tada:! 
+
 The OGC (Open Graduation Classes) is a method built to work with students, professors, and professionals to develop open graduation classes so universities can improve their classes, students can participate in the classes building processes and professionals can suggest/improve our classes to adapt to the actual needs of the market.
+
 This documents is a set of guidelines for contributing to OGC on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
