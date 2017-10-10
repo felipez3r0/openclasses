@@ -16,7 +16,7 @@ We have a folder for each class (in Brazil for example we use around 20 classes 
 
 Inside each class we have the summary about that class, the basic workflow of this class, and relevant links and activities for the students. We use a folder called Discoveries where students can share their work or their activities, this folder can keep a track of the work done by all the students over the different semesters.
 
-In the [examples folder](https://github.com/felipez3r0/openclasses/examples) you can see a example of a subject and a class built using the guideline of OGC.
+In the [examples folder](https://github.com/felipez3r0/openclasses/tree/master/Examples) you can see a example of a subject and a class built using the guideline of OGC.
 
 ## Contributing
 
