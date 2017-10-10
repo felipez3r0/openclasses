@@ -5,16 +5,16 @@
 ## Workflow
 
 > Topic 1 (1 hour)
-[EXPLANATION]
+[EXPLAINATION]
 
 > Topic 2 (1 hour)
-[EXPLANATION]
+[EXPLAINATION]
 
 > Topic 3 (1 hour)
-[EXPLANATION]
+[EXPLAINATION]
 
 > Topic 4 (1 hour)
-[EXPLANATION]
+[EXPLAINATION]
 
 ## Relevant links
 
