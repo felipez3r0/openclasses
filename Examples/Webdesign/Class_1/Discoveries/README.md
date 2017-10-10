@@ -1,3 +1,3 @@
 # WebDesign - Class 1 - Discoveries
 
-Folder for uploading the discoveries
+Folder for uploading discoveries
