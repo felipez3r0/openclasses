@@ -2,7 +2,7 @@
 
 OGC (Open Graduation Classes) is a method built to work with students, professors, and professionals to develop open graduation classes!
 
-[ LOGO ]
+![LOGO](logo.png)
 
 Using the OGC method universities can improve their classes, professors can share their content, students can participate in the classes building processes and professionals can suggest/improve classes to adapt to the actual needs of the market.
 
