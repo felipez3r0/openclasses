@@ -1,6 +1,6 @@
 # Class 6
 
-Putting all together!
+Putting it all together!
 In this class we will present some basic activities around HTML pages, the students need to build three different pages following the instructions and link these pages using the tag <a>
 
 ## Workflow
