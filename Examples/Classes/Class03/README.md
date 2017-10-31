@@ -8,7 +8,7 @@ HTML Syntax: Text tags
 Introduce the tags related to text and to text formatting (p,br,strong,h1,em,etc)
 
 > Learn by practice (2~3 hours)
-It's time to learn by practicing, we will let the students try to create a simple HTML page with his prefered recipe (for example)
+It's time to learn by practicing, we will let the students try to create a simple HTML page with his preferred recipe (for example)
 
 ## Relevant links
 
