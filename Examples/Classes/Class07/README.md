@@ -14,7 +14,7 @@ An introduction to basic CSS syntax and how we can stylize the DOM.
 
 > Learning by practice (1 hour and 30 minutes)
 
-It's time to learn again by practicing, we will let the students try to improve their HTML page using CSS to stylize the content.
+It's time to learn by practicing, we will let the students try to improve their HTML page using CSS to stylize the content.
 
 ## Relevant Links
 
