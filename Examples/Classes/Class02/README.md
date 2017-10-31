@@ -1,6 +1,6 @@
 # Class 2
 
-HTML Syntax: Tags and atributes
+HTML Syntax: Tags and attributes
 
 ## Workflow
 
