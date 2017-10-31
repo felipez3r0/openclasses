@@ -10,7 +10,7 @@ Basic information about HTML tags, what they are, how they work, and the basic t
 
 > Examples and how write HTML in any text editor (2 hours)
 
-Some simple pages built in Notepad or any preferred text editor (in order to show how easy it is to build an HTML file)
+Some simple pages built in Notepad or any preferred text editor (in order to show how easy it is to build an HTML file).
 
 ## Relevant Links
 

@@ -1,6 +1,6 @@
 # Class 1
 
-A presentation of the discipline, the professor, and the content. Plus a basic introduction to HTML, and his history.
+A presentation of the discipline, the professor, and the content. Plus a basic introduction to HTML and its history.
 
 ## Workflow
 
