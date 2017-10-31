@@ -1,6 +1,6 @@
 # Class 5
 
-Discussion about W3C patterns, what are they? are they really that important?
+Discussion about W3C patterns, what are they? Are they really that important?
 Introduce the history of W3C, show the HTML validator and discuss the importance of web compatibility.
 
 ## Workflow
@@ -12,7 +12,7 @@ Introduction about W3C and the Web patterns
 Explain about the validation and ask for students to test their recipe page using the validator to see if everything is in the right place
 
 > Web compatibility (2 hours)
-Introduce the students to the web compatibility topic, discuss how web compatibility issues can be a huge problem, do a research in the region websites to check if they have any compatibility problem
+Introduce the students to the web compatibility topic, discuss how web compatibility issues can be a huge problem, do a research in the region websites to check if they have any compatibility problems
 
 ## Relevant links
 
