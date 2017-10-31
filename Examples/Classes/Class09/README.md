@@ -1,16 +1,17 @@
 # Class 9
 
-Revision class
+This is a revision class.
 
 ## Workflow
 
 > Full revision (4 hour)
-Full revision of the content until now, discussion with students to solve any questions and prepare everybody for the first exam.
 
-## Relevant links
+Full revision of all the content up until now, and discussion with the students to solve any questions. Also to prepare everybody for the first exam.
+
+## Relevant Links
 
 - All the links from previous classes :)
 
-## Our discoveries
+## Our Discoveries
 
-You can share your discoveries in the folder [Discoveries](https://github.com/felipez3r0/openclasses/Examples/Classes/Class01/Discoveries)
+You can share your discoveries in the folder: [Discoveries](https://github.com/felipez3r0/openclasses/Examples/Classes/Class01/Discoveries)
