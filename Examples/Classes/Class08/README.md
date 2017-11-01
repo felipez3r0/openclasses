@@ -10,7 +10,7 @@ A brief introduction on CSS selectors and how they work.
 
 > CSS classes (1 hour)
 
-Explain how CSS classes work, how to add them into the HTML file, and how they are stylized.
+Explain how CSS classes works, how add them in the HTML file, and how they are styled.
 
 > Learning by practice
 
