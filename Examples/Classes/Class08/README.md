@@ -1,6 +1,6 @@
 # Class 8
 
-Using CSS basic selectors and classes to stylize content
+Using CSS basic selectors and classes to style content
 
 ## Workflow
 
@@ -8,10 +8,10 @@ Using CSS basic selectors and classes to stylize content
 Brief introduction on CSS selectors and how they work
 
 > CSS classes (1 hour)
-Explain how CSS classes works, how add them in the HTML file, and how they are stylized
+Explain how CSS classes works, how add them in the HTML file, and how they are styled
 
 > Learning by practice
-It's time to learn by practicing, we will let the students try to improve their last HTML page using CSS selectors and classes to stylize the content and reuse CSS code
+It's time to learn by practicing, we will let the students try to improve their last HTML page using CSS selectors and classes to style the content and reuse CSS code
 
 ## Relevant links
 
