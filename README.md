@@ -8,7 +8,7 @@ Using the OGC method universities can improve their classes, professors can shar
 
 ## The OGC method
 
-We have a really basic and simple method to open our classes using the OGC method. Basically the idea behind this method is to provide a easy and collaborative way for students, professors, and professionals to contribute to class content and format.
+We have a really basic and simple method to open our classes using the OGC method. Basically the idea behind this method is to provide a easy and collaborative way for students, professors, and professionals to contribute to classes content and format.
 
 **How the method works?**
 
