@@ -8,13 +8,13 @@ Using the OGC method universities can improve their classes, professors can shar
 
 ## The OGC method
 
-We have a really basic and simple method to open our classes using the OGC method. Basically the idea behind this method is to provide a easy and colaborative way for students, professors, and professionals to contribute to classes content and format.
+We have a really basic and simple method to open our classes using the OGC method. Basically the idea behind this method is to provide a easy and collaborative way for students, professors, and professionals to contribute to class content and format.
 
 **How the method works?**
 
 We have a folder for each class (in Brazil for example we use around 20 classes for one subject) with a base README informing about the number of classes, the estimate duration of each class and giving a summary about the content.
 
-Inside each class we have the summary of that class, the basic workflow of it, and relevant links and activities for the students. We use a folder named Discoveries where students can share their work or their activities, this folder can keep a track of the work done by all the students over the different semesters.
+Inside each class we have the summary of that class, the basic workflow of it, and relevant links and activities for the students. We use a folder named Discoveries where students can share their work or their activities. This folder can keep a track of the work done by all the students over the different semesters.
 
 In the [examples folder](https://github.com/felipez3r0/openclasses/tree/master/Examples) you can see a example of a subject and a class built using the guideline of OGC.
 
